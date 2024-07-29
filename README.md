@@ -1,16 +1,13 @@
-## Hi there 👋
+## Vịt nấu chao
 
-<!--
-**vitnauchaocom/vitnauchaocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sự kết hợp của thịt vịt, chao và khoai môn, đã tạo nên một món ăn vô cùng thơm ngon đó là món vịt nấu chao, thịt vịt thì mềm, không bị hôi, miếng khoai môn dẻo, nước chao thì béo ngậy có vị đặc trưng. Bạn còn chần chờ gì nữa, hãy vào bếp và làm ngay món này thôi nào.
 
-Here are some ideas to get you started:
+#vitnauchao #cachlamvitnauchao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://vitnauchao.com/
+
+https://www.pinterest.com/vitnauchaocom/
+
+https://vimeo.com/vitnauchaocom
+
+https://www.youtube.com/channel/UCeqvexTAWkXGW8lBZOEhjqA
